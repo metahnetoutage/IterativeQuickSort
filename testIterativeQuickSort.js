@@ -40,7 +40,7 @@ let timeSortCheck = endSortCheck.getMilliseconds() - startSortCheck.getMilliseco
 console.log(`The array is sorted: ${ allSorted }\n\tTime to run sort check:${ timeSortCheck }ms\n\titerativeQuickSort time:${ time1 }ms\n\trecursiveQuickSort:${ time2 }ms`);
 
 /**
- * This is not the fastest implementatino of IterativeQuickSort, as shown below.
+ * This is not the fastest implementation of IterativeQuickSort, as shown below.
  * I will Create a New IterativeQuickSort which demoes far faster result.
  * The array is sorted: true
         Time to run sort check:2ms
