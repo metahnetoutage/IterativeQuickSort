@@ -47,12 +47,3 @@ console.log(`The array is sorted: ${ allSorted }\n\tTime to run sort check:${ ti
         iterativeQuickSort time:735ms
         recursiveQuickSort:3ms
  */
-
-/**
- * This faster implementation of IterativeQuickSort, as shown below.
- * I will Create a New IterativeQuickSort which demoes far faster result.
- *  The array is sorted: true
-	Time to run sort check:3ms
-    iterativeQuickSort time:494ms
-    recursiveQuickSort:4ms
- */
