@@ -1,0 +1,12 @@
+{
+  "name": "iterativequicksort",
+  "version": "1.0.0",
+  "description": "iterativeQuickSort",
+  "main": "./testIterativeQuickSort.js",
+  "type": "module",
+  "scripts": {
+    "start": "node ./testIterativeQuickSort.js"
+  },
+  "author": "Dmitri Dimov",
+  "license": "ISC"
+}
